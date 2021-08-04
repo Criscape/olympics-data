@@ -1,0 +1,14 @@
+[
+  { "name": "Basketball", "shortname": "BKB" },
+  { "name": "Football", "shortname": "FBL" },
+  { "name": "Handball", "shortname": "HBL" },
+  { "name": "Hockey", "shortname": "HOC" },
+  { "name": "Karate", "shortname": "KTE" },
+  { "name": "Modern Pentathlon", "shortname": "MPN" },
+  { "name": "Rhythmic Gymnastics", "shortname": "GRY" },
+  { "name": "Sport Climbing", "shortname": "CLB" },
+  { "name": "Volleyball", "shortname": "VVO" },
+  { "name": "Water Polo", "shortname": "WPO" },
+  { "name": "Beach Volleyball", "shortname": "VBV" },
+  { "name": "Artistic Swimming", "shortname": "SWA" }
+]

@@ -1,0 +1,9 @@
+{
+    "seleniumConfig": {
+        "driverPath": "./drivers/chromedriver",
+        "chromeOptions": [
+            "--headless"
+        ]
+    },
+    "url": "https://olympics.com/tokyo-2020/en/sports/"
+}

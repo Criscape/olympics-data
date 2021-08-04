@@ -1,0 +1,1032 @@
+[
+  {
+    "name": "Afghanistan",
+    "shortname": "AFG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/AFG.png"
+  },
+  {
+    "name": "Albania",
+    "shortname": "ALB",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ALB.png"
+  },
+  {
+    "name": "Algeria",
+    "shortname": "ALG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ALG.png"
+  },
+  {
+    "name": "American Samoa",
+    "shortname": "ASA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ASA.png"
+  },
+  {
+    "name": "Andorra",
+    "shortname": "AND",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/AND.png"
+  },
+  {
+    "name": "Angola",
+    "shortname": "ANG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ANG.png"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "shortname": "ANT",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ANT.png"
+  },
+  {
+    "name": "Argentina",
+    "shortname": "ARG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ARG.png"
+  },
+  {
+    "name": "Armenia",
+    "shortname": "ARM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ARM.png"
+  },
+  {
+    "name": "Aruba",
+    "shortname": "ARU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ARU.png"
+  },
+  {
+    "name": "Australia",
+    "shortname": "AUS",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/AUS.png"
+  },
+  {
+    "name": "Austria",
+    "shortname": "AUT",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/AUT.png"
+  },
+  {
+    "name": "Azerbaijan",
+    "shortname": "AZE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/AZE.png"
+  },
+  {
+    "name": "Bahamas",
+    "shortname": "BAH",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BAH.png"
+  },
+  {
+    "name": "Bahrain",
+    "shortname": "BRN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BRN.png"
+  },
+  {
+    "name": "Bangladesh",
+    "shortname": "BAN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BAN.png"
+  },
+  {
+    "name": "Barbados",
+    "shortname": "BAR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BAR.png"
+  },
+  {
+    "name": "Belarus",
+    "shortname": "BLR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BLR.png"
+  },
+  {
+    "name": "Belgium",
+    "shortname": "BEL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BEL.png"
+  },
+  {
+    "name": "Belize",
+    "shortname": "BIZ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BIZ.png"
+  },
+  {
+    "name": "Benin",
+    "shortname": "BEN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BEN.png"
+  },
+  {
+    "name": "Bermuda",
+    "shortname": "BER",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BER.png"
+  },
+  {
+    "name": "Bhutan",
+    "shortname": "BHU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BHU.png"
+  },
+  {
+    "name": "Bolivia",
+    "shortname": "BOL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BOL.png"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "shortname": "BIH",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BIH.png"
+  },
+  {
+    "name": "Botswana",
+    "shortname": "BOT",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BOT.png"
+  },
+  {
+    "name": "Brazil",
+    "shortname": "BRA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BRA.png"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "shortname": "BRU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BRU.png"
+  },
+  {
+    "name": "Bulgaria",
+    "shortname": "BUL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BUL.png"
+  },
+  {
+    "name": "Burkina Faso",
+    "shortname": "BUR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BUR.png"
+  },
+  {
+    "name": "Burundi",
+    "shortname": "BDI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/BDI.png"
+  },
+  {
+    "name": "Cambodia",
+    "shortname": "CAM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CAM.png"
+  },
+  {
+    "name": "Cameroon",
+    "shortname": "CMR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CMR.png"
+  },
+  {
+    "name": "Canada",
+    "shortname": "CAN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CAN.png"
+  },
+  {
+    "name": "Cape Verde",
+    "shortname": "CPV",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CPV.png"
+  },
+  {
+    "name": "Cayman Islands",
+    "shortname": "CAY",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CAY.png"
+  },
+  {
+    "name": "Central African Republic",
+    "shortname": "CAF",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CAF.png"
+  },
+  {
+    "name": "Chad",
+    "shortname": "CHA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CHA.png"
+  },
+  {
+    "name": "Chile",
+    "shortname": "CHI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CHI.png"
+  },
+  {
+    "name": "Chinese Taipei",
+    "shortname": "TPE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TPE.png"
+  },
+  {
+    "name": "Colombia",
+    "shortname": "COL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/COL.png"
+  },
+  {
+    "name": "Comoros",
+    "shortname": "COM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/COM.png"
+  },
+  {
+    "name": "Congo",
+    "shortname": "CGO",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CGO.png"
+  },
+  {
+    "name": "Cook Islands",
+    "shortname": "COK",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/COK.png"
+  },
+  {
+    "name": "Costa Rica",
+    "shortname": "CRC",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CRC.png"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "shortname": "CIV",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CIV.png"
+  },
+  {
+    "name": "Croatia",
+    "shortname": "CRO",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CRO.png"
+  },
+  {
+    "name": "Cuba",
+    "shortname": "CUB",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CUB.png"
+  },
+  {
+    "name": "Cyprus",
+    "shortname": "CYP",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CYP.png"
+  },
+  {
+    "name": "Czech Republic",
+    "shortname": "CZE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CZE.png"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "shortname": "COD",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/COD.png"
+  },
+  {
+    "name": "Democratic Republic of Timor-Leste",
+    "shortname": "TLS",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TLS.png"
+  },
+  {
+    "name": "Denmark",
+    "shortname": "DEN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/DEN.png"
+  },
+  {
+    "name": "Djibouti",
+    "shortname": "DJI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/DJI.png"
+  },
+  {
+    "name": "Dominica",
+    "shortname": "DMA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/DMA.png"
+  },
+  {
+    "name": "Dominican Republic",
+    "shortname": "DOM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/DOM.png"
+  },
+  {
+    "name": "Ecuador",
+    "shortname": "ECU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ECU.png"
+  },
+  {
+    "name": "Egypt",
+    "shortname": "EGY",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/EGY.png"
+  },
+  {
+    "name": "El Salvador",
+    "shortname": "ESA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ESA.png"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "shortname": "GEQ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GEQ.png"
+  },
+  {
+    "name": "Eritrea",
+    "shortname": "ERI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ERI.png"
+  },
+  {
+    "name": "Estonia",
+    "shortname": "EST",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/EST.png"
+  },
+  {
+    "name": "Eswatini",
+    "shortname": "SWZ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SWZ.png"
+  },
+  {
+    "name": "Ethiopia",
+    "shortname": "ETH",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ETH.png"
+  },
+  {
+    "name": "Federated States of Micronesia",
+    "shortname": "FSM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/FSM.png"
+  },
+  {
+    "name": "Fiji",
+    "shortname": "FIJ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/FIJ.png"
+  },
+  {
+    "name": "Finland",
+    "shortname": "FIN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/FIN.png"
+  },
+  {
+    "name": "France",
+    "shortname": "FRA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/FRA.png"
+  },
+  {
+    "name": "Gabon",
+    "shortname": "GAB",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GAB.png"
+  },
+  {
+    "name": "Gambia",
+    "shortname": "GAM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GAM.png"
+  },
+  {
+    "name": "Georgia",
+    "shortname": "GEO",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GEO.png"
+  },
+  {
+    "name": "Germany",
+    "shortname": "GER",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GER.png"
+  },
+  {
+    "name": "Ghana",
+    "shortname": "GHA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GHA.png"
+  },
+  {
+    "name": "Great Britain",
+    "shortname": "GBR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GBR.png"
+  },
+  {
+    "name": "Greece",
+    "shortname": "GRE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GRE.png"
+  },
+  {
+    "name": "Grenada",
+    "shortname": "GRN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GRN.png"
+  },
+  {
+    "name": "Guam",
+    "shortname": "GUM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GUM.png"
+  },
+  {
+    "name": "Guatemala",
+    "shortname": "GUA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GUA.png"
+  },
+  {
+    "name": "Guinea",
+    "shortname": "GUI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GUI.png"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "shortname": "GBS",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GBS.png"
+  },
+  {
+    "name": "Guyana",
+    "shortname": "GUY",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/GUY.png"
+  },
+  {
+    "name": "Haiti",
+    "shortname": "HAI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/HAI.png"
+  },
+  {
+    "name": "Honduras",
+    "shortname": "HON",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/HON.png"
+  },
+  {
+    "name": "Hong Kong, China",
+    "shortname": "HKG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/HKG.png"
+  },
+  {
+    "name": "Hungary",
+    "shortname": "HUN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/HUN.png"
+  },
+  {
+    "name": "Iceland",
+    "shortname": "ISL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ISL.png"
+  },
+  {
+    "name": "India",
+    "shortname": "IND",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/IND.png"
+  },
+  {
+    "name": "Indonesia",
+    "shortname": "INA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/INA.png"
+  },
+  {
+    "name": "Iraq",
+    "shortname": "IRQ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/IRQ.png"
+  },
+  {
+    "name": "Ireland",
+    "shortname": "IRL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/IRL.png"
+  },
+  {
+    "name": "Islamic Republic of Iran",
+    "shortname": "IRI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/IRI.png"
+  },
+  {
+    "name": "Israel",
+    "shortname": "ISR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ISR.png"
+  },
+  {
+    "name": "Italy",
+    "shortname": "ITA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ITA.png"
+  },
+  {
+    "name": "Jamaica",
+    "shortname": "JAM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/JAM.png"
+  },
+  {
+    "name": "Japan",
+    "shortname": "JPN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/JPN.png"
+  },
+  {
+    "name": "Jordan",
+    "shortname": "JOR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/JOR.png"
+  },
+  {
+    "name": "Kazakhstan",
+    "shortname": "KAZ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KAZ.png"
+  },
+  {
+    "name": "Kenya",
+    "shortname": "KEN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KEN.png"
+  },
+  {
+    "name": "Kiribati",
+    "shortname": "KIR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KIR.png"
+  },
+  {
+    "name": "Kosovo",
+    "shortname": "KOS",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KOS.png"
+  },
+  {
+    "name": "Kuwait",
+    "shortname": "KUW",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KUW.png"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "shortname": "KGZ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KGZ.png"
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "shortname": "LAO",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LAO.png"
+  },
+  {
+    "name": "Latvia",
+    "shortname": "LAT",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LAT.png"
+  },
+  {
+    "name": "Lebanon",
+    "shortname": "LBN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LBN.png"
+  },
+  {
+    "name": "Lesotho",
+    "shortname": "LES",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LES.png"
+  },
+  {
+    "name": "Liberia",
+    "shortname": "LBR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LBR.png"
+  },
+  {
+    "name": "Libya",
+    "shortname": "LBA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LBA.png"
+  },
+  {
+    "name": "Liechtenstein",
+    "shortname": "LIE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LIE.png"
+  },
+  {
+    "name": "Lithuania",
+    "shortname": "LTU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LTU.png"
+  },
+  {
+    "name": "Luxembourg",
+    "shortname": "LUX",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LUX.png"
+  },
+  {
+    "name": "Madagascar",
+    "shortname": "MAD",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MAD.png"
+  },
+  {
+    "name": "Malawi",
+    "shortname": "MAW",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MAW.png"
+  },
+  {
+    "name": "Malaysia",
+    "shortname": "MAS",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MAS.png"
+  },
+  {
+    "name": "Maldives",
+    "shortname": "MDV",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MDV.png"
+  },
+  {
+    "name": "Mali",
+    "shortname": "MLI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MLI.png"
+  },
+  {
+    "name": "Malta",
+    "shortname": "MLT",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MLT.png"
+  },
+  {
+    "name": "Marshall Islands",
+    "shortname": "MHL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MHL.png"
+  },
+  {
+    "name": "Mauritania",
+    "shortname": "MTN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MTN.png"
+  },
+  {
+    "name": "Mauritius",
+    "shortname": "MRI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MRI.png"
+  },
+  {
+    "name": "Mexico",
+    "shortname": "MEX",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MEX.png"
+  },
+  {
+    "name": "Monaco",
+    "shortname": "MON",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MON.png"
+  },
+  {
+    "name": "Mongolia",
+    "shortname": "MGL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MGL.png"
+  },
+  {
+    "name": "Montenegro",
+    "shortname": "MNE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MNE.png"
+  },
+  {
+    "name": "Morocco",
+    "shortname": "MAR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MAR.png"
+  },
+  {
+    "name": "Mozambique",
+    "shortname": "MOZ",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MOZ.png"
+  },
+  {
+    "name": "Myanmar",
+    "shortname": "MYA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MYA.png"
+  },
+  {
+    "name": "Namibia",
+    "shortname": "NAM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NAM.png"
+  },
+  {
+    "name": "Nauru",
+    "shortname": "NRU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NRU.png"
+  },
+  {
+    "name": "Nepal",
+    "shortname": "NEP",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NEP.png"
+  },
+  {
+    "name": "Netherlands",
+    "shortname": "NED",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NED.png"
+  },
+  {
+    "name": "New Zealand",
+    "shortname": "NZL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NZL.png"
+  },
+  {
+    "name": "Nicaragua",
+    "shortname": "NCA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NCA.png"
+  },
+  {
+    "name": "Niger",
+    "shortname": "NIG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NIG.png"
+  },
+  {
+    "name": "Nigeria",
+    "shortname": "NGR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NGR.png"
+  },
+  {
+    "name": "North Macedonia",
+    "shortname": "MKD",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MKD.png"
+  },
+  {
+    "name": "Norway",
+    "shortname": "NOR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/NOR.png"
+  },
+  {
+    "name": "Oman",
+    "shortname": "OMA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/OMA.png"
+  },
+  {
+    "name": "Pakistan",
+    "shortname": "PAK",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PAK.png"
+  },
+  {
+    "name": "Palau",
+    "shortname": "PLW",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PLW.png"
+  },
+  {
+    "name": "Palestine",
+    "shortname": "PLE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PLE.png"
+  },
+  {
+    "name": "Panama",
+    "shortname": "PAN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PAN.png"
+  },
+  {
+    "name": "Papua New Guinea",
+    "shortname": "PNG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PNG.png"
+  },
+  {
+    "name": "Paraguay",
+    "shortname": "PAR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PAR.png"
+  },
+  {
+    "name": "People's Republic of China",
+    "shortname": "CHN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/CHN.png"
+  },
+  {
+    "name": "Peru",
+    "shortname": "PER",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PER.png"
+  },
+  {
+    "name": "Philippines",
+    "shortname": "PHI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PHI.png"
+  },
+  {
+    "name": "Poland",
+    "shortname": "POL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/POL.png"
+  },
+  {
+    "name": "Portugal",
+    "shortname": "POR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/POR.png"
+  },
+  {
+    "name": "Puerto Rico",
+    "shortname": "PUR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/PUR.png"
+  },
+  {
+    "name": "Qatar",
+    "shortname": "QAT",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/QAT.png"
+  },
+  {
+    "name": "Refugee Olympic Team",
+    "shortname": "EOR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/EOR.png"
+  },
+  {
+    "name": "Republic of Korea",
+    "shortname": "KOR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KOR.png"
+  },
+  {
+    "name": "Republic of Moldova",
+    "shortname": "MDA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/MDA.png"
+  },
+  {
+    "name": "ROC",
+    "shortname": "ROC",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ROC.png"
+  },
+  {
+    "name": "Romania",
+    "shortname": "ROU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ROU.png"
+  },
+  {
+    "name": "Rwanda",
+    "shortname": "RWA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/RWA.png"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "shortname": "SKN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SKN.png"
+  },
+  {
+    "name": "Saint Lucia",
+    "shortname": "LCA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/LCA.png"
+  },
+  {
+    "name": "Samoa",
+    "shortname": "SAM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SAM.png"
+  },
+  {
+    "name": "San Marino",
+    "shortname": "SMR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SMR.png"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "shortname": "STP",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/STP.png"
+  },
+  {
+    "name": "Saudi Arabia",
+    "shortname": "KSA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/KSA.png"
+  },
+  {
+    "name": "Senegal",
+    "shortname": "SEN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SEN.png"
+  },
+  {
+    "name": "Serbia",
+    "shortname": "SRB",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SRB.png"
+  },
+  {
+    "name": "Seychelles",
+    "shortname": "SEY",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SEY.png"
+  },
+  {
+    "name": "Sierra Leone",
+    "shortname": "SLE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SLE.png"
+  },
+  {
+    "name": "Singapore",
+    "shortname": "SGP",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SGP.png"
+  },
+  {
+    "name": "Slovakia",
+    "shortname": "SVK",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SVK.png"
+  },
+  {
+    "name": "Slovenia",
+    "shortname": "SLO",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SLO.png"
+  },
+  {
+    "name": "Solomon Islands",
+    "shortname": "SOL",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SOL.png"
+  },
+  {
+    "name": "Somalia",
+    "shortname": "SOM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SOM.png"
+  },
+  {
+    "name": "South Africa",
+    "shortname": "RSA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/RSA.png"
+  },
+  {
+    "name": "South Sudan",
+    "shortname": "SSD",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SSD.png"
+  },
+  {
+    "name": "Spain",
+    "shortname": "ESP",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ESP.png"
+  },
+  {
+    "name": "Sri Lanka",
+    "shortname": "SRI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SRI.png"
+  },
+  {
+    "name": "St Vincent and the Grenadines",
+    "shortname": "VIN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/VIN.png"
+  },
+  {
+    "name": "Sudan",
+    "shortname": "SUD",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SUD.png"
+  },
+  {
+    "name": "Suriname",
+    "shortname": "SUR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SUR.png"
+  },
+  {
+    "name": "Sweden",
+    "shortname": "SWE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SWE.png"
+  },
+  {
+    "name": "Switzerland",
+    "shortname": "SUI",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SUI.png"
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "shortname": "SYR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/SYR.png"
+  },
+  {
+    "name": "Tajikistan",
+    "shortname": "TJK",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TJK.png"
+  },
+  {
+    "name": "Thailand",
+    "shortname": "THA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/THA.png"
+  },
+  {
+    "name": "Togo",
+    "shortname": "TOG",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TOG.png"
+  },
+  {
+    "name": "Tonga",
+    "shortname": "TGA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TGA.png"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "shortname": "TTO",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TTO.png"
+  },
+  {
+    "name": "Tunisia",
+    "shortname": "TUN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TUN.png"
+  },
+  {
+    "name": "Turkey",
+    "shortname": "TUR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TUR.png"
+  },
+  {
+    "name": "Turkmenistan",
+    "shortname": "TKM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TKM.png"
+  },
+  {
+    "name": "Tuvalu",
+    "shortname": "TUV",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TUV.png"
+  },
+  {
+    "name": "Uganda",
+    "shortname": "UGA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/UGA.png"
+  },
+  {
+    "name": "Ukraine",
+    "shortname": "UKR",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/UKR.png"
+  },
+  {
+    "name": "United Arab Emirates",
+    "shortname": "UAE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/UAE.png"
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "shortname": "TAN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/TAN.png"
+  },
+  {
+    "name": "United States of America",
+    "shortname": "USA",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/USA.png"
+  },
+  {
+    "name": "Uruguay",
+    "shortname": "URU",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/URU.png"
+  },
+  {
+    "name": "Uzbekistan",
+    "shortname": "UZB",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/UZB.png"
+  },
+  {
+    "name": "Vanuatu",
+    "shortname": "VAN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/VAN.png"
+  },
+  {
+    "name": "Venezuela",
+    "shortname": "VEN",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/VEN.png"
+  },
+  {
+    "name": "Vietnam",
+    "shortname": "VIE",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/VIE.png"
+  },
+  {
+    "name": "Virgin Islands, British",
+    "shortname": "IVB",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/IVB.png"
+  },
+  {
+    "name": "Virgin Islands, US",
+    "shortname": "ISV",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ISV.png"
+  },
+  {
+    "name": "Yemen",
+    "shortname": "YEM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/YEM.png"
+  },
+  {
+    "name": "Zambia",
+    "shortname": "ZAM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ZAM.png"
+  },
+  {
+    "name": "Zimbabwe",
+    "shortname": "ZIM",
+    "flagUrl": "https://olympics.com/tokyo-2020/olympic-games/resCOMMON/img/flags/ZIM.png"
+  }
+]
